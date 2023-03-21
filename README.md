@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xNomada
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
